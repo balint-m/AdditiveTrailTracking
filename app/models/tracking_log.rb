@@ -1,0 +1,2 @@
+class TrackingLog < ApplicationRecord
+end
